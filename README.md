@@ -8,7 +8,6 @@
 
  * ### html5  
  使用了语义化标签，localstorage本地存储 
- 
- 
+
  * ### javascript  
- 使用jQuery框架
+ 使用jQuery框架实现
